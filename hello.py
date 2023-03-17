@@ -1,6 +1,6 @@
 password  = input('Введите пароль')
 
-if password == "madina":
+if password != "madina":
 
     print('welcome')
 else: 
